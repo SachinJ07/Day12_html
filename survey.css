@@ -1,3 +1,5 @@
+
+
 input.star-5:checked ~ label.star:before {
     color: #FE7;
     text-shadow: 0 0 20px #952;
@@ -28,7 +30,7 @@ input.star-5:checked ~ label.star:before {
     position: absolute;
     }
     .form{
-    background-color: rgb(8, 91, 91);
-    color: rgb(233, 192, 6);
+    background-color: rgb(197, 219, 219);
+    color: rgb(53, 52, 48);
     
     }
